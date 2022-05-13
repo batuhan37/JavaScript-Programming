@@ -1,0 +1,25 @@
+ul li.checked{
+    background: #888;
+    color: #fff;
+    text-decoration: line-through;
+}
+.close{
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 5px 15px 5px 5px;
+    font-size: 20px;
+    font-weight: 900;
+    color: #888;
+
+}
+.close:hover{
+    
+    color: rgb(83, 72, 72);
+}
+
+.card-header button{
+position: absolute;
+right: 5px;
+top: 5px;
+}
