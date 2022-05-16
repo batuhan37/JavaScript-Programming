@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "name": "Macbook",
+      "price": 1500,
+      "currency": "usd",
+      "image": ""
+    },
+    {
+      "name": "IMac",
+      "price": 100000,
+      "currency": "tl",
+      "image": ""
+    },
+    {
+      "name": "Ipad mini",
+      "price": 90000,
+      "currency":"tl",
+      "image": ""
+    },
+     {
+       "name": "Iphone",
+       "price": 1000,
+       "currency": "usd",
+       "image": ""
+     }
+  ]
+}
